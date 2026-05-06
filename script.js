@@ -19,4 +19,4 @@ function revealOnScroll() {
 window.addEventListener("scroll", revealOnScroll);
 
 // run once on load
-revealOnScroll();
+//revealOnScroll();
